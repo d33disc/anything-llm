@@ -21,6 +21,8 @@
     },
     // Terraform support
     "ghcr.io/devcontainers/features/terraform:1": {},
+    // GitHub CLI
+    "ghcr.io/devcontainers/features/github-cli:1": {},
     // Just a wrap to install needed packages
     "ghcr.io/devcontainers-contrib/features/apt-packages:1": {
       // Dependencies copied from ../docker/Dockerfile plus some dev stuff
